@@ -1,0 +1,7 @@
+[
+  { "Image": "img1", "Name": "Shirt", "Price": 1240 },
+  { "Image": "img2", "Name": "Pant", "Price": 1437 },
+  { "Image": "img3", "Name": "Shorts", "Price": 450 },
+  { "Image": "img4", "Name": "Tshirt", "Price": 350 },
+  { "Image": "img5", "Name": "Cargo", "Price": 1500 }
+]
